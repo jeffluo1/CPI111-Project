@@ -1,17 +1,34 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+//code to keep player within the window
+x=min(x,room_width-50)
+x=max(x,50)
+
+//if no key no movement
 if keyboard_check(vk_nokey) {
 	hspeed = 0
-} else if keyboard_check(vk_space) && keyboard_check(vk_right) {
-	hspeed = 30
-	image_xscale = 1
-} else if keyboard_check(vk_space) && keyboard_check(vk_left) {
-	hspeed = -30
-	image_xscale = -1
-} else if keyboard_check(vk_right) {
+} 
+
+//D to move right
+if keyboard_check(ord("D")) {
 	hspeed = 15
 	image_xscale = 1
-} else if keyboard_check(vk_left) {
+} 
+
+//A to move left
+if keyboard_check(ord("A")) {
 	hspeed = -15
 	image_xscale = -1
 } 
+
+//
+if keyboard_check_pressed(vk_space) && keyboard_check(ord("D")) {
+	hspeed = 100
+	image_xscale = 1
+} 
+
+if keyboard_check_pressed(vk_space) && keyboard_check(ord("A")) {
+	hspeed = -100
+	image_xscale = -1
+}

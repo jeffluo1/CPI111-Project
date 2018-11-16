@@ -1,8 +1,8 @@
 
 {
-    "name": "room0",
+    "name": "room_EnduranceMode",
     "id": "2d9f86c8-a3a6-4964-9c29-02b031cadae6",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
