@@ -271,6 +271,14 @@
             }
         },
         {
+            "Key": "6a02650d-cb03-4037-bcbd-a1c8bab1cad2",
+            "Value": {
+                "id": "68ae3189-f8ee-4cec-8b24-e726a74f41f1",
+                "resourcePath": "views\\6a02650d-cb03-4037-bcbd-a1c8bab1cad2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "7e3ee38a-c895-42e7-b28d-60e80af72cce",
             "Value": {
                 "id": "8fc5cc25-c28c-4b9f-9c40-56c54054792d",
@@ -308,6 +316,14 @@
                 "id": "aa8fed1b-896b-4c17-ae6d-4e7ee87784ab",
                 "resourcePath": "sprites\\spr_orange\\spr_orange.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "93d3e073-97a2-46ff-9ff2-cdad6ed36588",
+            "Value": {
+                "id": "5e74a04e-6f03-4652-9c98-bbb7137d20fa",
+                "resourcePath": "views\\93d3e073-97a2-46ff-9ff2-cdad6ed36588.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -503,36 +519,14 @@
             }
         },
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 87572a9... Merge branch 'master' of https://github.com/jeffluo1/CPI111-Project
-=======
->>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
-=======
->>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
-            "Key": "e164075d-ffdc-41e5-b061-8d530345c970",
+            "Key": "eb907692-2f39-4e6f-bd7b-d0e49ab97565",
             "Value": {
-                "id": "45ec59c2-f3a1-4f50-a7ae-294734f6df7d",
-                "resourcePath": "sprites\\spr_lightning_cloud\\spr_lightning_cloud.yy",
-                "resourceType": "GMSprite"
+                "id": "a710f7e4-1fd9-4400-85b1-27156165f852",
+                "resourcePath": "rooms\\room_mainMenu\\room_mainMenu.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of df47785... added main menu, score showing problem though
-=======
->>>>>>> parent of e0317de... Merge branch 'master' of https://github.com/jeffluo1/CPI111-Project
-=======
->>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
-=======
->>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
             "Key": "f31f1fc1-33f3-49e5-9634-e0e6910d150b",
             "Value": {
                 "id": "e84516aa-715b-4566-bbba-9e6ae22b3cc3",
@@ -581,6 +575,14 @@
             }
         },
         {
+            "Key": "fbaa81c8-06ca-4d48-afc9-f9970399f83b",
+            "Value": {
+                "id": "6b525488-bb37-455e-ac9c-f024ecab8982",
+                "resourcePath": "sprites\\spr_shuriken\\spr_shuriken.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fc1a9674-53cf-4618-a55f-ba07a22af570",
             "Value": {
                 "id": "3bff733d-bb06-4d43-8d32-3abc9bed8840",
@@ -594,6 +596,14 @@
                 "id": "3eaba2b5-f97c-419c-9a34-b327fd14e365",
                 "resourcePath": "views\\fc77030e-17f4-45b3-b042-f671b86af82a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ffbd5a06-8e67-4c0e-a6f6-4fcc835ee64e",
+            "Value": {
+                "id": "d5d6ce70-a74d-4af3-94f0-63378cb29c54",
+                "resourcePath": "objects\\obj_shuriken\\obj_shuriken.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
