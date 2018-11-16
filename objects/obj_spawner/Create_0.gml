@@ -17,3 +17,5 @@ alarm[4] = 20 * room_speed; //cherry
 alarm[5] = 25 * room_speed; //bombs
 alarm[6] = 10 * room_speed; //deadFish
 alarm[7] = 10 * room_speed; //garbage
+
+alarm[8] = 25* room_speed;
