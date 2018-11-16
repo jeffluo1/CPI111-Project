@@ -23,6 +23,7 @@
         "88020a62-6535-4656-8a8e-23c6ffb652d7",
         "9dab831a-a9b9-4340-aaff-f05f6c0fe28c",
         "3b256901-1b24-4278-a978-c04bc40fb8bf",
+<<<<<<< HEAD
         "30bd62cc-6306-4ef0-a3cb-486aaed316b2",
 <<<<<<< HEAD
         "ffbd5a06-8e67-4c0e-a6f6-4fcc835ee64e",
@@ -34,6 +35,9 @@
 =======
         "ffbd5a06-8e67-4c0e-a6f6-4fcc835ee64e"
 >>>>>>> parent of df47785... added main menu, score showing problem though
+=======
+        "30bd62cc-6306-4ef0-a3cb-486aaed316b2"
+>>>>>>> parent of e0317de... Merge branch 'master' of https://github.com/jeffluo1/CPI111-Project
     ],
     "filterType": "GMObject",
     "folderName": "objects",
