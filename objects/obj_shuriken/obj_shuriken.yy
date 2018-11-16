@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_shuriken",
     "eventList": [
-        
+        {
+            "id": "cdcc57fa-aa8c-4cd2-98a0-6a6cb47a8a4f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "ffbd5a06-8e67-4c0e-a6f6-4fcc835ee64e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
