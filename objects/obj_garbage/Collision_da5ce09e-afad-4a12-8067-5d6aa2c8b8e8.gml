@@ -1,11 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
+score = score - 200
 instance_destroy()
-if(score <= 0)
-{
-	score = 0;
-}
-else
-{
-	score = score - 200
-}
