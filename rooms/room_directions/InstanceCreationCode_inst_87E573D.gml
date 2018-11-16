@@ -1,0 +1,1 @@
+Directions = "Press A to move left\n\n Press D to move right \n\n Press Space + A or D to dash\n\n Shoot By pressing left mouse button \n\n Aim with mouse \n\n Press esc to pause menu"

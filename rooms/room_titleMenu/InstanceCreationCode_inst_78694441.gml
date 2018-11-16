@@ -1,2 +1,2 @@
-text = "Campaign Mode"
+text = "Directions"
 action = 1;
