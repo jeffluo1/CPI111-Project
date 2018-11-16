@@ -3,8 +3,8 @@
 if(game_state == 0) {
 	draw_set_color(c_black)
 	draw_set_font(font_calibri)
-	draw_text(16, 16, "Score: " + string(score))
-	draw_text(16, 36, "Health: " + string(health))
+	draw_text(40, 40, "Score: " + string(score))
+	draw_text(40, 61, "Health: " + string(health))
 }
 else {
 	draw_set_color(c_black)
