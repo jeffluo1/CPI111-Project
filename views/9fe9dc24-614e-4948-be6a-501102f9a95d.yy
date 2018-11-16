@@ -21,7 +21,31 @@
         "a33a2388-e40b-4f18-943f-bb7ff6f0d8c8",
         "c8ecb1ee-2c30-4652-b44e-9bc40d7f5650",
         "111a7fc5-afa5-471d-a1e4-ff58b161d2fa",
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
+        "f31f1fc1-33f3-49e5-9634-e0e6910d150b",
+        "fbaa81c8-06ca-4d48-afc9-f9970399f83b",
+        "e164075d-ffdc-41e5-b061-8d530345c970"
+<<<<<<< HEAD
+=======
+        "e0f6fef6-49b5-49da-be7a-485756b13c19"
+>>>>>>> df477851a6b336b4a4644c7296a6ffdd46c4cc2e
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+        "fbaa81c8-06ca-4d48-afc9-f9970399f83b"
+>>>>>>> parent of df47785... added main menu, score showing problem though
+=======
         "f31f1fc1-33f3-49e5-9634-e0e6910d150b"
+>>>>>>> parent of e0317de... Merge branch 'master' of https://github.com/jeffluo1/CPI111-Project
+=======
+>>>>>>> parent of 87572a9... Merge branch 'master' of https://github.com/jeffluo1/CPI111-Project
+=======
+>>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
+=======
+>>>>>>> parent of e346115... Revert "added main menu, score showing problem though"
     ],
     "filterType": "GMSprite",
     "folderName": "sprites",
