@@ -26,9 +26,11 @@ if keyboard_check(ord("A")) {
 if keyboard_check_pressed(vk_space) && keyboard_check(ord("D")) {
 	hspeed = 100
 	image_xscale = 1
+	audio_play_sound(sfx_dash, 10, 0);
 } 
 
 if keyboard_check_pressed(vk_space) && keyboard_check(ord("A")) {
 	hspeed = -100
 	image_xscale = -1
+	audio_play_sound(sfx_dash, 10, 0);
 }
