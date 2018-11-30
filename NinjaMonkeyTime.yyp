@@ -599,11 +599,27 @@
             }
         },
         {
+            "Key": "e1378cc9-109c-4548-ac84-5a726303b164",
+            "Value": {
+                "id": "167fa18b-bb4c-4ab6-b473-44fee08afe58",
+                "resourcePath": "sprites\\spr_invicibility\\spr_invicibility.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e15005cf-7499-4145-8cf0-91f5948a3cac",
             "Value": {
                 "id": "016e6941-d525-40b7-9f12-02870c92c3b6",
                 "resourcePath": "views\\e15005cf-7499-4145-8cf0-91f5948a3cac.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3de36bd-cb50-4d14-b2c9-93aba4107e17",
+            "Value": {
+                "id": "96b476a8-e25c-45f7-96b2-7d8b5229bb41",
+                "resourcePath": "objects\\obj_invicibility\\obj_invicibility.yy",
+                "resourceType": "GMObject"
             }
         },
         {

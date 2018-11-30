@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-health = health - 10
+health = health - damage
 if (score <= 0) {
 	score = 0
 } else {
