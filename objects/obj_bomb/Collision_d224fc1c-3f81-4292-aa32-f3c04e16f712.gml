@@ -17,7 +17,7 @@ if(hp <= 0)
 	}
 	
 	else if(create == 3) {
-		instance_create_layer(self.x, self.y, "Instances", obj_invicibility);
+		instance_create_layer(self.x, self.y, "Instances", obj_invincibility);
 	}
 }
 with other

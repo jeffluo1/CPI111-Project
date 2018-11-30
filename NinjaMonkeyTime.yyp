@@ -618,7 +618,7 @@
             "Key": "e3de36bd-cb50-4d14-b2c9-93aba4107e17",
             "Value": {
                 "id": "96b476a8-e25c-45f7-96b2-7d8b5229bb41",
-                "resourcePath": "objects\\obj_invicibility\\obj_invicibility.yy",
+                "resourcePath": "objects\\obj_invincibility\\obj_invincibility.yy",
                 "resourceType": "GMObject"
             }
         },

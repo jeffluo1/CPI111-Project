@@ -75,6 +75,20 @@
             "value": "1",
             "varName": "gun",
             "varType": 1
+        },
+        {
+            "id": "f8a7e1ea-f00d-4890-b7cb-9e6518733c4c",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "invinciblity",
+            "varType": 0
         }
     ],
     "solid": true,

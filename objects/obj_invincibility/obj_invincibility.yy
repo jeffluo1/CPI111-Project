@@ -2,7 +2,7 @@
     "id": "e3de36bd-cb50-4d14-b2c9-93aba4107e17",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_invicibility",
+    "name": "obj_invincibility",
     "eventList": [
         {
             "id": "efc468ae-3e6a-4bab-a242-ec211477cbe3",
@@ -23,6 +23,16 @@
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "e3de36bd-cb50-4d14-b2c9-93aba4107e17"
+        },
+        {
+            "id": "a080e6b1-fc31-498d-9ac7-c46dabe09bef",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e3de36bd-cb50-4d14-b2c9-93aba4107e17"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -41,7 +51,9 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
     "spriteId": "e1378cc9-109c-4548-ac84-5a726303b164",
     "visible": true

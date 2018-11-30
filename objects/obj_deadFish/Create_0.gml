@@ -4,3 +4,4 @@ vspeed = 10;
 depth = -10;
 hp=1;
 damage = 10;
+penalty = 400;
